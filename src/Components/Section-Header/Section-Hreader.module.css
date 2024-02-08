@@ -1,0 +1,10 @@
+.hr{
+    border: 2px solid black !important ;
+    background-color: black !important;
+    opacity: 1 !important;
+    width: 230px !important;
+}
+.star > i{
+    bottom: -75% !important;
+    position: absolute !important;
+}
